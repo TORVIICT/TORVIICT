@@ -29,14 +29,13 @@ location: "📍 Remote | Hybrid | Cali, Colombia"
 availability: "⏱️ Immediate | 2 weeks notice"
 work_permit: "🇨🇴 Colombia (open to relocation/sponsorship)"
 <div align="center">
-
+```
 ✨ Let’s build something extraordinary together! ✨
 💬 Contact me on LinkedIn
  • 📧 Email me
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding animation" />
 </div>
-```
 
 ---
 
@@ -91,10 +90,10 @@ Results-driven **Software Engineer** with **3+ years** of experience building sc
 **Tech:** Node.js • MongoDB • WebSockets • JWT • Docker
 
 **Impact:**
-- 🎯 Handles **500+ concurrent players** with real-time game state synchronization
-- 🔐 Implemented secure authentication and authorization system
-- ⚡ Achieved **<50ms latency** for game actions using WebSocket optimization
-- 📊 Designed scalable data model supporting complex game logic
+-  Handles **500+ concurrent players** with real-time game state synchronization
+-  Implemented secure authentication and authorization system
+-  Achieved **<50ms latency** for game actions using WebSocket optimization
+-  Designed scalable data model supporting complex game logic
 
 **Key Features:** Room management, player matchmaking, real-time chat, game history tracking
 
@@ -104,10 +103,10 @@ Results-driven **Software Engineer** with **3+ years** of experience building sc
 **Tech:** Java • MySQL • MongoDB • Scheduled Jobs • Data Migration
 
 **Impact:**
-- 💾 Automated backup of **1M+ patient records** with zero data loss
-- ⚙️ Reduced backup time by **75%** through parallel processing
-- 🔄 Implemented incremental backup strategy saving **80% storage**
-- 🛡️ HIPAA-compliant data encryption and secure transfer
+-  Automated backup of **1M+ patient records** with zero data loss
+-  Reduced backup time by **75%** through parallel processing
+-  Implemented incremental backup strategy saving **80% storage**
+-  HIPAA-compliant data encryption and secure transfer
 
 **Key Features:** Multi-database sync, rollback capabilities, audit logging, compression
 
@@ -117,10 +116,10 @@ Results-driven **Software Engineer** with **3+ years** of experience building sc
 **Tech:** Spring Boot • React • PostgreSQL • REST API • Docker
 
 **Impact:**
-- 🚀 Deployed with **CI/CD pipeline** achieving 10-minute deployment cycles
-- 🎨 Built responsive UI with **accessibility score of 95+**
-- 🔍 Implemented full-text search with **sub-second response times**
-- 📱 Progressive Web App (PWA) with offline capabilities
+-  Deployed with **CI/CD pipeline** achieving 10-minute deployment cycles
+-  Built responsive UI with **accessibility score of 95+**
+-  Implemented full-text search with **sub-second response times**
+-  Progressive Web App (PWA) with offline capabilities
 
 **Key Features:** Task prioritization, team collaboration, deadline tracking, analytics dashboard
 
@@ -130,10 +129,10 @@ Results-driven **Software Engineer** with **3+ years** of experience building sc
 **Tech:** Java • Spring Boot • MySQL • REST API • AWS
 
 **Impact:**
-- 📊 Manages **10K+ SKUs** across multiple warehouses
-- 🎯 Reduced inventory discrepancies by **90%** with real-time tracking
-- 💰 Saved **$50K annually** through automated reorder point calculations
-- 📈 Integrated with 3rd-party logistics APIs
+-  Manages **10K+ SKUs** across multiple warehouses
+-  Reduced inventory discrepancies by **90%** with real-time tracking
+-  Saved **$50K annually** through automated reorder point calculations
+-  Integrated with 3rd-party logistics APIs
 
 **Key Features:** Stock alerts, reporting, supplier management, barcode scanning
 
@@ -150,17 +149,6 @@ Results-driven **Software Engineer** with **3+ years** of experience building sc
 | Docker & Kubernetes Specialist | Linux Foundation | 📚 Studying | 2025 |
 
 </div>
-
-**📖 Currently Learning:** System Design • Distributed Systems • Cloud Architecture • AI/ML Integration
-
-
-**My Process:**
-1. 📋 Understand business requirements thoroughly
-2. 🎨 Design scalable and maintainable solutions
-3. 💻 Write clean, tested, and documented code
-4. 🧪 Ensure comprehensive test coverage
-5. 🔄 Deploy with confidence using automation
-6. 📈 Monitor and optimize based on metrics
 
 ---
 
