@@ -28,8 +28,8 @@ roles: [⚙️ Backend Engineer, 🌐 Full-Stack Developer, ☁️ DevOps Engine
 location: "📍 Remote | Hybrid | Cali, Colombia"
 availability: "⏱️ Immediate | 2 weeks notice"
 work_permit: "🇨🇴 Colombia (open to relocation/sponsorship)"
-<div align="center">
 ```
+<div align="center">
 ✨ Let’s build something extraordinary together! ✨
 💬 Contact me on LinkedIn
  • 📧 Email me
