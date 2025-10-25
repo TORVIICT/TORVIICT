@@ -153,17 +153,6 @@ Results-driven **Software Engineer** with **3+ years** of experience building sc
 
 ---
 
-## 🎯 **2025 Goals & Roadmap**
-
-- [ ] 🏗️ Contribute to major open source project (100+ ⭐)
-- [ ] ☁️ Complete AWS Solutions Architect certification
-- [ ] 📝 Publish technical blog series on system design
-- [ ] 🎤 Speak at local tech meetup
-- [ ] 🤖 Build and deploy an AI-powered side project
-- [ ] 🌍 Join a fast-growing startup as senior engineer
-
----
-
 <div align="center">
   
 ### 💭 **Development Philosophy**
