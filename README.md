@@ -1,4 +1,3 @@
-<!-- Dynamic Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Victor%20Realpe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
   
@@ -17,15 +16,27 @@
 
 ## 💼 **Open to Opportunities**
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Actively+seeking+new+challenges!;Open+to+Backend+and+Full-Stack+roles;DevOps+Enthusiast+%7C+Cloud+Builder+%7C+Tech+Innovator" alt="Typing SVG" />
+
+</div>
+
 ```yaml
 status: "Actively seeking full-time & contract opportunities"
-roles: [Backend Engineer, Full-Stack Developer, DevOps Engineer]
-location: "Remote | Hybrid | Bogotá, Colombia"
-availability: "Immediate | 2 weeks notice"
-work_permit: "Colombia (open to relocation/sponsorship)"
-```
+roles: [⚙️ Backend Engineer, 🌐 Full-Stack Developer, ☁️ DevOps Engineer]
+location: "📍 Remote | Hybrid | Cali, Colombia"
+availability: "⏱️ Immediate | 2 weeks notice"
+work_permit: "🇨🇴 Colombia (open to relocation/sponsorship)"
+<div align="center">
 
-> 📩 **Let's build something amazing together!** Feel free to reach out for opportunities or collaborations.
+✨ Let’s build something extraordinary together! ✨
+💬 Contact me on LinkedIn
+ • 📧 Email me
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding animation" />
+</div>
+```
 
 ---
 
@@ -34,12 +45,12 @@ work_permit: "Colombia (open to relocation/sponsorship)"
 Results-driven **Software Engineer** with **3+ years** of experience building scalable backend systems, RESTful APIs, and cloud-native applications. Specialized in designing robust architectures that handle high traffic and complex business logic.
 
 **🎯 Core Strengths:**
-- ⚡ Built microservices handling **100K+ daily requests** with 99.9% uptime
-- 🔐 Implemented secure authentication systems using JWT, OAuth2, and SSO
-- ☁️ Deployed and managed applications on **AWS** and **Azure** with CI/CD pipelines
-- 📊 Optimized database queries reducing response times by **60%**
-- 🤝 Led cross-functional teams in agile environments
-- 🧪 Strong advocate for TDD and clean code practices
+-  Built microservices handling **100K+ daily requests** with 99.9% uptime
+-  Implemented secure authentication systems using JWT, OAuth2, and SSO
+-  Deployed and managed applications on **AWS** and **Azure** with CI/CD pipelines
+-  Optimized database queries reducing response times by **60%**
+-  Led cross-functional teams in agile environments
+-  Strong advocate for TDD and clean code practices
 
 ---
 
